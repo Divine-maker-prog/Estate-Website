@@ -1,0 +1,17 @@
+.header1 {
+    display: flex;
+    gap: 8px;
+}
+
+.tito {
+    font-size: smaller;
+    color: rgb(68, 136, 68);
+}
+
+.navis {
+    padding-top: 15px;
+    gap: 15px;
+    justify-content: center;
+    text-decoration: none;
+    color: rgb(4, 27, 4);
+}
